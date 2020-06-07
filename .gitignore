@@ -1,0 +1,7 @@
+Library/
+Log/
+*.csproj
+Temp/
+.vscose
+*.sln
+ProjectSettings/
